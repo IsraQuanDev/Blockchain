@@ -10,3 +10,9 @@
 * [Functions_1](https://gist.github.com/IsraQuanDev/ed78a0010a3b2a5ecf53104241440ef9)
 * [Functions_2](https://gist.github.com/IsraQuanDev/1c4d775dfce7b1c5243176a4e8196ed1)
 * [Functions_3](https://gist.github.com/IsraQuanDev/8c6ebb37755bb69fd9b003a7e5cd4a54) 
+* [Addition Sol](https://gist.github.com/IsraQuanDev/565f9e6b93214bc183adc448680b3ccf)
+
+
+### Solidity Twitter Project
+* []()
+* []()
