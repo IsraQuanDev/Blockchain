@@ -9,4 +9,4 @@
 * [Variables](https://gist.github.com/IsraQuanDev/b5e8a7bab8ba6c647c311120b3c8b1e9)
 * [Functions_1](https://gist.github.com/IsraQuanDev/ed78a0010a3b2a5ecf53104241440ef9)
 * [Functions_2](https://gist.github.com/IsraQuanDev/1c4d775dfce7b1c5243176a4e8196ed1)
-* [Functions_3]() 
+* [Functions_3](https://gist.github.com/IsraQuanDev/8c6ebb37755bb69fd9b003a7e5cd4a54) 
